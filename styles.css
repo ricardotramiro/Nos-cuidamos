@@ -21,7 +21,7 @@ header {
 .button-header {
     background: #665AE1;
     border-radius: 20.5px;
-    width: 130px;
+    width: 200px;
     height: 41px;
     border: none;
     font-weight: 600;
@@ -80,57 +80,3 @@ p {
     line-height: 34px;
     color: #000000;
 }
-
-
-/* 🔹 Responsividade para telas menores */
-@media (max-width: 1024px) {
-    /* Ocultar o header */
-    header {
-        display: none;
-    }
-
-    /* Ocultar o parágrafo */
-    p {
-        display: none;
-    }
-
-    .logo-image {
-        width: 90%;
-        height: auto;
-        margin: 0 auto;
-        display: block;
-        margin: 149px 22px 0 14px;
-    }
-
-    section {
-        display: block;
-        text-align: center;
-        margin: 40px auto;
-        padding: 0 20px;
-    }
-
-    h1 {
-        font-size: 60px;
-        line-height: 72px;
-    }
-
-    h2 {
-        font-size: 36px;
-        line-height: 48px;
-        margin-top: 7px;
-    }
-
-    .button-main {
-        width: 80%;
-        max-width: 239px;
-        height: 56px;
-        font-size: 22px;
-        margin-top: 17px;
-    }
-}
-
-
-
-
-
-
