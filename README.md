@@ -5,4 +5,4 @@
 <h2>Nesse projeto utilizei: Html e Css</h2> 
 <br>
 <br>
-<img src="https://github.com/ricardotramiro/Nos-importamos/blob/main/Captura%20de%20tela%202025-02-24%20161320.png?raw=true">
+<img src="https://github.com/ricardotramiro/We-care/blob/main/assets/Captura%20de%20tela%202025-04-18%20191058.png?raw=true">
